@@ -1,0 +1,1 @@
+<x-file.item :file="$file" class="hover:bg-gray-200" />

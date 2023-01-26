@@ -1,0 +1,1 @@
+<x-auth-session-status class="text-red-600" :status="session('error')" />

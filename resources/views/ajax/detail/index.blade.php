@@ -1,0 +1,1 @@
+<x-detail.iframe class="relative overflow-hidden pl-[75%]" />

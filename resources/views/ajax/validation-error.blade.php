@@ -1,0 +1,1 @@
+<x-auth-validation-errors id="error-container" class="flex flex-col mb-1" :errors="$errors" />

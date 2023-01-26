@@ -46,7 +46,7 @@
                     </div>
                     <div class="flex flex-col w-96">
                         <div class="">
-                            <p class="font-bold font-serif text-6xl">Blockchain File Sharing Application</p>
+                            <p class="font-bold font-serif text-6xl">Blockchain File Storage Application</p>
                         </div>
                         <div class="mt-8">
                             <p>This is a fisll sk kls klklkslklsklk  klsklkfdskkl lskl klslsklkskslsklsklk lk sllkdlkslk</p>

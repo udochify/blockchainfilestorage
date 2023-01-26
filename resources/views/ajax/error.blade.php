@@ -1,0 +1,1 @@
+<x-session-status class="text-red-600" :status="$error" />

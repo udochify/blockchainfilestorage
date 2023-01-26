@@ -46,10 +46,10 @@
                     </div>
                     <div class="flex flex-col w-96">
                         <div class="">
-                            <p class="font-bold font-serif text-6xl">Blockchain File Storage Application</p>
+                            <p class="font-bold font-serif text-6xl">Blockchain File Verification Application</p>
                         </div>
                         <div class="mt-8">
-                            <p>This is a fisll sk kls klklkslklsklk  klsklkfdskkl lskl klslsklkskslsklsklk lk sllkdlkslk</p>
+                            <p>This is a blockchain file verification system that is built around Web 3.0 technology. The system ensures that your files at the backend of the web application are secured and can be verified using advanced cryptographic methods such as sha3-256 hashing algorithm and encryption methods such as OpenSSL AES encryption algorithm. </p>
                         </div>
                     </div>
                 </div>

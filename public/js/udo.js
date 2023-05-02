@@ -102,6 +102,7 @@ function upload() {
                 $('#file-panel').prepend(data.view);
                 $("div[id^='ajax-file']:first-child").find("div[id^='download']").on('click', download);
                 $("div[id^='ajax-file']:first-child").find("div[id^='delete']").on('click', destroy);
+                $("div[id^='ajax-file']:first-child").find("div[id^='verify']").on('click', verify);
                 $("div[id^='ajax-file']:first-child").find("div[id^='share']").on('click', share);
                 $("div[id^='ajax-file']:first-child").find("div[id^='unshare']").on('click', unshare);
             }

@@ -39,7 +39,7 @@
             @endif
             </div>
 
-            <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
+            <div class="max-w-6xl mx-auto sm:px-6 lg:px-8 mt-12">
                 <div class="flex flex-row">
                     <div class="w-[500px] mr-5">
                         <img class="relative w-full h-auto" src="img/logo-file-storage.jpg" />
